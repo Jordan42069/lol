@@ -1,0 +1,33 @@
+@ECHO OFF
+
+:loop
+start H:\Dokumente\ff,\lol.url
+timeout 2
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+timeout 10
+start H:\Dokumente\ff,\lol.url
+timeout 300
+start H:\Dokumente\ff,\lol.url
+timeout 300
+start H:\Dokumente\ff,\lol.url
+timeout 600
+start H:\Dokumente\ff,\lol.url
+timeout 300
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+start H:\Dokumente\ff,\lol.url
+goto lopp
